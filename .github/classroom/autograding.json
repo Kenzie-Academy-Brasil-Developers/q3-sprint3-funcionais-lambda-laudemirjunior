@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "q3-sprint3-funcionais-lambda",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest -vvs",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
